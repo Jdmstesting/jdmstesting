@@ -1,0 +1,5 @@
+PageObjects\HomePage.class
+Utilities\Driver.class
+Utilities\Wait.class
+Utilities\configurationReader.class
+PageObjects\LoginPage.class
